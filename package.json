@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --recursive --use_strict",
+    "test": "./node_modules/mocha/bin/mocha --recursive --use_strict --exit",
     "start": "node app.js"
   },
   "repository": {
